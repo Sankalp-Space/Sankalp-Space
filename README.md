@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">My name is  Sankalp and I'm a Backend Developer, from India</p>
+<p align="left">I'm a Backend Developer, from India</p>
 
 ###
 
